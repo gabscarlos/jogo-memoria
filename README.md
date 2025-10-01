@@ -48,4 +48,4 @@ O jogo desafia sua concentração e memória, mostrando rapidamente onde cada em
 
 ## 💎 Links úteis 💎
 
-- [Jogar Jogo da Memória](https://gabscarlos.github.io/jogo-memoria/)
+- <a href="https://gabscarlos.github.io/jogo-memoria/" target="_blank">Jogar Jogo da Memória</a>
