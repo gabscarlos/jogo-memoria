@@ -1,7 +1,7 @@
 # 🧠 Jogo da Memória
 
 <div align="center">
-<img src="https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/1.png" width="350" />
+<img src="https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/capa.png" width="350" />
 
 <div data-badges>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -44,7 +44,7 @@ O jogo desafia sua concentração e memória, mostrando rapidamente onde cada em
 - Reinício rápido do jogo com embaralhamento automático.
 - Interface leve, responsiva e divertida.
 
-    ![](https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/2.png)
+    ![](https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/2.jpg)
 
 ## 💎 Links úteis 💎
 
