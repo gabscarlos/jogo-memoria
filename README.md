@@ -4,9 +4,9 @@
 <img src="https://github.com/gabscarlos/emoji-memory/raw/main/.gitassets/capa.png" width="350" />
 
 <div data-badges>
-    <img src="https://img.shields.io/github/stars/gabscarlos/emoji-memory?style=for-the-badge" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/forks/gabscarlos/emoji-memory?style=for-the-badge" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues/gabscarlos/emoji-memory?style=for-the-badge" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/stars/gabscarlos/jogo-memoria?style=for-the-badge" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/forks/gabscarlos/jogo-memoria?style=for-the-badge" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/issues/gabscarlos/jog-memoria?style=for-the-badge" alt="GitHub issues" />
 </div>
 
 <div data-badges>
@@ -16,7 +16,7 @@
 </div>
 </div>
 
-O **Emoji Memory** é um jogo da memória simples e divertido, feito com HTML, CSS e JavaScript.  
+O **Jogo Memória** é um jogo da memória simples e divertido, feito com HTML, CSS e JavaScript.  
 O objetivo é encontrar todos os pares de cartas de emojis no menor número de jogadas possível.  
 
 O jogo desafia sua concentração e memória, mostrando rapidamente onde cada emoji está antes de virar as cartas novamente.  
@@ -34,3 +34,24 @@ O jogo desafia sua concentração e memória, mostrando rapidamente onde cada em
 
    ```sh
    git clone https://github.com/gabscarlos/emoji-memory
+   ```
+
+2. Acesse o diretório do projeto:
+
+   ```sh
+   cd flappy-bird
+   ```
+
+3. Abra o arquivo `index.html` clicando duas vezes sobre ele.
+
+## 🗒️ Features do projeto 🗒️
+
+- Cartas estilizadas que mostram emojis ao serem viradas.
+- Sistema de pares: ao encontrar dois emojis iguais, eles permanecem abertos.
+- Contador de jogadas para medir sua performance.
+- Reinício rápido do jogo com embaralhamento automático.
+- Interface leve, responsiva e divertida.
+
+## 💎 Links úteis 💎
+
+- [Jogar Flappy Fish](https://gabscarlos.github.io/jogo-memoria/)
