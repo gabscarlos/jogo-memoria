@@ -1,13 +1,7 @@
-# 🧠 Emoji Memory
+# 🧠 Jogo da Memória
 
 <div align="center">
-<img src="https://github.com/gabscarlos/emoji-memory/raw/main/.gitassets/capa.png" width="350" />
-
-<div data-badges>
-    <img src="https://img.shields.io/github/stars/gabscarlos/jogo-memoria?style=for-the-badge" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/forks/gabscarlos/jogo-memoria?style=for-the-badge" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues/gabscarlos/jogo-memoria?style=for-the-badge" alt="GitHub issues" />
-</div>
+<img src="https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/capa.png" width="350" />
 
 <div data-badges>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -51,6 +45,10 @@ O jogo desafia sua concentração e memória, mostrando rapidamente onde cada em
 - Contador de jogadas para medir sua performance.
 - Reinício rápido do jogo com embaralhamento automático.
 - Interface leve, responsiva e divertida.
+
+    ![](https://github.com/gabscarlos/flappy-fish/raw/main/.gitassets/2.png)
+
+    ![](https://github.com/gabscarlos/flappy-fish/raw/main/.gitassets/3.png)
 
 ## 💎 Links úteis 💎
 
