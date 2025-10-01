@@ -44,7 +44,7 @@ O jogo desafia sua concentração e memória, mostrando rapidamente onde cada em
 - Reinício rápido do jogo com embaralhamento automático.
 - Interface leve, responsiva e divertida.
 
-    ![](https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/2.png)
+    ![](https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/2.jpg)
 
 ## 💎 Links úteis 💎
 
