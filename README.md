@@ -6,7 +6,7 @@
 <div data-badges>
     <img src="https://img.shields.io/github/stars/gabscarlos/jogo-memoria?style=for-the-badge" alt="GitHub stars" />
     <img src="https://img.shields.io/github/forks/gabscarlos/jogo-memoria?style=for-the-badge" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues/gabscarlos/jog-memoria?style=for-the-badge" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/issues/gabscarlos/jogo-memoria?style=for-the-badge" alt="GitHub issues" />
 </div>
 
 <div data-badges>
