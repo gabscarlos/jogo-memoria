@@ -9,10 +9,9 @@
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 </div>
-
+<br>
 O **Jogo Memória** é um jogo da memória simples e divertido, feito com HTML, CSS e JavaScript.  
 O objetivo é encontrar todos os pares de cartas de emojis no menor número de jogadas possível.  
-
 O jogo desafia sua concentração e memória, mostrando rapidamente onde cada emoji está antes de virar as cartas novamente.  
 
 ## 🖥️ Como rodar este projeto 🖥️
