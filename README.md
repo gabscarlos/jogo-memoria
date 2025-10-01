@@ -49,4 +49,4 @@ O jogo desafia sua concentração e memória, mostrando rapidamente onde cada em
 
 ## 💎 Links úteis 💎
 
-- [Jogar Flappy Fish](https://gabscarlos.github.io/jogo-memoria/)
+- [Jogar Jogo da Memória](https://gabscarlos.github.io/jogo-memoria/)
