@@ -1,51 +1,54 @@
 # 🧠 Jogo da Memória
 
 <div align="center">
-<img src="https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/capa.png" width="350" />
-
-<div data-badges>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/capa.png" width="350" />
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
-<br>
-O **Jogo Memória** é um jogo da memória simples e divertido, feito com HTML, CSS e JavaScript.  
-O objetivo é encontrar todos os pares de cartas de emojis no menor número de jogadas possível.  
-O jogo desafia sua concentração e memória, mostrando rapidamente onde cada emoji está antes de virar as cartas novamente.  
 
-## 🖥️ Como rodar este projeto 🖥️
+---
 
-### Requisitos:
+## 🎮 Sobre o projeto
 
-- Navegador moderno (Chrome, Firefox, Edge ou Safari).
-- [Node.js](https://nodejs.org/pt) (opcional, apenas se desejar rodar com servidor local).
+O **Jogo da Memória** é uma recriação moderna e divertida do clássico jogo de combinar pares.  
+Com uma interface colorida e leve, o jogador precisa encontrar todos os pares de cartas de emojis no menor número de jogadas possível.  
+Cada partida testa sua **atenção, memória e rapidez**, tornando o desafio simples, mas viciante!
 
-### Execução:
+---
 
-1. Clone este repositório:
+## ✨ Destaques
 
-   ```sh
-   git clone https://github.com/gabscarlos/jogo-memoria
-   ```
+- 🃏 Cartas animadas com emojis divertidos  
+- 🎯 Sistema de pontuação baseado em acertos  
+- 🔄 Reinício automático com embaralhamento  
+- 📱 Design leve, responsivo e agradável  
 
-2. Acesse o diretório do projeto:
+---
 
-   ```sh
-   cd jogo-memoria
-   ```
+<div align="center">
+  <img src="https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/2.jpg" width="80%" />
+</div>
 
-3. Abra o arquivo `index.html` clicando duas vezes sobre ele.
+---
 
-## 🗒️ Features do projeto 🗒️
+## 🚀 Experimente agora
 
-- Cartas estilizadas que mostram emojis ao serem viradas.
-- Sistema de pares: ao encontrar dois emojis iguais, eles permanecem abertos.
-- Reinício rápido do jogo com embaralhamento automático.
-- Interface leve, responsiva e divertida.
+👉 **[Jogar Jogo da Memória](https://gabscarlos.github.io/jogo-memoria/)**
 
-    ![](https://github.com/gabscarlos/jogo-memoria/raw/main/.gitassets/2.jpg)
+---
 
-## 💎 Links úteis 💎
+## 🧠 Tecnologias utilizadas
 
-- <a href="https://gabscarlos.github.io/jogo-memoria/" target="_blank">Jogar Jogo da Memória</a>
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+<div align="center">
+  <sub>Projeto desenvolvido por <strong>Gabriel Carlos</strong> — veja mais em <a href="https://gabscarlos.vercel.app/" target="_blank">meu portfólio</a> 🎨</sub>
+</div>
