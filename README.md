@@ -22,9 +22,7 @@ Cada partida testa sua **atenção, memória e rapidez**, tornando o desafio sim
 
 ## ✨ Destaques
 
-- 🃏 Cartas animadas com emojis divertidos  
-- 🎯 Sistema de pontuação baseado em acertos  
-- 🔄 Reinício automático com embaralhamento  
+- 🃏 Cartas animadas com emojis divertidos
 - 📱 Design leve, responsivo e agradável  
 
 ---
